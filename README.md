@@ -1,7 +1,3 @@
-# Pong
-
-My first Pong game made in C++ using raylib.
-
 Player 1
 * `W` — move up
 * `S` — move down
